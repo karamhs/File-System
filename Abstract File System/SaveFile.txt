@@ -1,0 +1,9 @@
+7
+Group,Group 1,4
+Group,Group 2,5
+User,User 1,2,503650304,user1@gmail.com,true,null
+User,User 2,3,1002858496,user2@gmail.com,false,4
+File,File 1,6,2
+Read
+Write
+LETS GOO!!
